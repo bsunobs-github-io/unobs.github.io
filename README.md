@@ -1,2 +1,3 @@
 # dos1
-![uno.jpg](https://unobs.github.io/uno.jpg)
+![uno80.jpg](https://github.com/bsunobs-github-io/unobs.github.io/raw/main/uno80.jpg)
+https://unobs.github.io/uno.jpg
